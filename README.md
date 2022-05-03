@@ -11,4 +11,5 @@ This is a exercise in [Android Basics In Kotlin Tutorial](https://developer.andr
 
 # How to run it
 - Install Android Studio
-- 
+- Open project with Android Studio
+- Run the app (Simulator/ Real device - Targeted for Nexus 6 API 30)
